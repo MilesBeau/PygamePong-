@@ -1,2 +1,2 @@
-# Fantasy-Pong-Pygame
-A fantasy inspired game of pong made using Pygame. 
+# Pong-Pygame
+A simple game of Pong created by using the Pygame module. 
